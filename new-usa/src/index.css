@@ -1,0 +1,5 @@
+@import "tailwindcss";
+/* @import "~leaflet/dist/leaflet.css"; */
+.font-sans {
+  font-family: "Open Sans", arial, sans-serif !important;
+}
