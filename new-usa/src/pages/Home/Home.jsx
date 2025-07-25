@@ -6,7 +6,7 @@ const Home = () => {
       <main className="flex flex-col md:flex-row mb-8">
         <div className="w-full md:w-2/3">
           <video
-            src="https://categories.api.godaddy.com/v4/videos/raw/video/PQE2aYP"
+            src="/video.mp4"
             autoPlay
             loop
             className="w-full h-auto"
